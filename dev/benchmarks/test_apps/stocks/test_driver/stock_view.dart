@@ -9,3 +9,5 @@ void main() {
   enableFlutterDriverExtension();
   app.main();
 }
+
+void enableFlutterDriverExtension() {}
